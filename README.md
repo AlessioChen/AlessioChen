@@ -16,7 +16,6 @@
 | [Angular weatherApp](https://github.com/AlessioChen/Angular-weatherApp)    | Typescript , Angular |
 | [Node js pollution reporter](https://github.com/AlessioChen/Node-js-pollution-reporter)    | Javascript , NodeJs |
 | [Recycle Schedule](https://github.com/AlessioChen/Recycle-Schedule)    | PHP , laravel |
-| [LaravelBlog](https://github.com/AlessioChen/LaravelBlog)    | PHP, Laravel|
 | [LaravelBlogApi](https://github.com/AlessioChen/LaravelBlogApi)    | PHP , laravel |
 | [Algorithms Project](https://github.com/AlessioChen/Algorithms)   | Python|
 | [Setiment Analysis AI Project](https://github.com/AlessioChen/Setiment-Analysis-AI-Project)   | Python|
