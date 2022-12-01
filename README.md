@@ -2,7 +2,7 @@
 
 
 # 🙋 About Me:
-<h4 align="center" >I'm Alessio currently I work  as full-stack developer for Commit Software and a Blockchain Developer student on @start2impact! </h4>
+<h4 align="center" I'm Alessio and currently working as full-stack developer for Commit Software and a Blockchain Developer student on @start2impact! </h4>
 
 <hr />
   <h4 align="center">Here you can see some of my projects </h4>
